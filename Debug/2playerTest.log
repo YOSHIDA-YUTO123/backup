@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\student\source\repos\2playerTest\main.cpp(683,24): warning C4244: '引数': 'UINT' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\student\source\repos\2playerTest\main.cpp(684,32): warning C4244: '引数': 'UINT' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\student\source\repos\2playerTest\main.cpp(685,49): warning C4244: '引数': 'UINT' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\student\source\repos\2playerTest\main.cpp(685,24): warning C4244: '引数': 'UINT' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\student\source\repos\2playerTest\main.cpp(1004,15): warning C4101: 'error': ローカル変数は 1 度も使われていません。
+  2playerTest.vcxproj -> C:\Users\student\source\repos\2playerTest\Debug\2playerTest.exe
